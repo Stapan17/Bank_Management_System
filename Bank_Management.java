@@ -167,6 +167,7 @@ public class y {
                 if (Check_Account(pin, x)) {
                     System.out.println("---------------------------------------");
                     System.out.println("Welcome to digital World!!!");
+                    System.out.println("Welcome to online bank system!!!");
                     System.out.println("---------------------------------------");
 
                     while (true) {
